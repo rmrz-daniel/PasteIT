@@ -11,7 +11,7 @@ function App() {
   const [menuActive, setMenuActive] = useState(false);
   const [clearCheck, setClearCheck] = useState(false);
   const [settingsActive, setSettings] = useState(false);
-  const [defaultColour, setDefaultColour] = useState("bg-blue-500 dark:bg-d-old-rose")
+  const [defaultColour, setDefaultColour] = useState("bg-l-bittersweet dark:bg-d-vanilla")
 
   appWindow.setAlwaysOnTop(true);
 
