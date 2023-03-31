@@ -10,8 +10,13 @@ Some of the key features of PasteIT include:
 **Dark and Light themes:** 
 ![themes-showcase](https://raw.githubusercontent.com/rmrz-daniel/PasteIT/main/public/ThemesShowcase.gif)
 <p> Choose between a dark or light theme depending on your preference or environment.  <sub>Potentially more coming!</sub> </p>
-**Always on top window:** <p> Keep PasteIT in view and easily accessible while you work on other tasks. </p>
+
+**Always on top window:** 
+<p> Keep PasteIT in view and easily accessible while you work on other tasks. </p>
+
 **Creates notes of clipboard contents:** 
-![edit-showcase](https://raw.githubusercontent.com/rmrz-daniel/PasteIT/main/public/EditShowCase.gif)
+![themes-showcase](https://raw.githubusercontent.com/rmrz-daniel/PasteIT/main/public/EditShowCase.gif)
 <p> Store frequently used text or snippets of code to quickly access and paste when needed. </p>
-**Editable notes:** <p> Quickly label, delete, or colour code clipboard notes with a simple click and hold. </p>
+
+**Editable notes:** 
+<p> Quickly label, delete, or colour code clipboard notes with a simple click and hold. </p>
