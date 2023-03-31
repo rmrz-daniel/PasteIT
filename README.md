@@ -7,7 +7,7 @@ To get started with PasteIT, simply download the application from our Github rep
 ## Features
 Some of the key features of PasteIT include:
 
-<p> **Dark and Light themes:** Choose between a dark or light theme depending on your preference or environment.<sub>Potentially more coming!</sub> </p>
-<p> **Always on top window:** Keep PasteIT in view and easily accessible while you work on other tasks. </p>
-<p> **Creates notes of clipboard contents:** Store frequently used text or snippets of code to quickly access and paste when needed. </p>
-<p> **Editable notes:** Quickly label, delete, or colour code clipboard notes with a simple click and hold. </p>
+**Dark and Light themes:** <p> Choose between a dark or light theme depending on your preference or environment.  <sub>Potentially more coming!</sub> </p>
+**Always on top window:** <p> Keep PasteIT in view and easily accessible while you work on other tasks. </p>
+**Creates notes of clipboard contents:** <p> Store frequently used text or snippets of code to quickly access and paste when needed. </p>
+**Editable notes:** <p> Quickly label, delete, or colour code clipboard notes with a simple click and hold. </p>
