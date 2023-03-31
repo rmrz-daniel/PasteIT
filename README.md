@@ -1,6 +1,9 @@
 # PasteIT
 PasteIT is a clipboard manager that simplifies copy-paste tasks and boosts your productivity. This intuitive tool allows you to easily store and access text with visual organization features. Say goodbye to repetitive tasks and hello to more time for creativity and work!
 
+## About
+PasteIT was an idea a friend of mine had come up with during a hackathon because we kept complaining about how much copying a pasting we had to do, and how much content we kept loosing track of in the sea of never ending tabs. As a result I took it upon myself to finish up on my version of his idea but I encourage checking him out, as im sure he will releasing great products soon! <a href="https://github.com/donoh5">@Donoh5</a>
+
 ## Getting Started
 To get started with PasteIT, simply download the application from my Github repository releases and run it on your device. Once you have downloaded the application, you can start using it right away. The application is designed to be user-friendly, so you should not have any trouble getting started.
 
