@@ -1,4 +1,4 @@
-# PasteIT
+# PasteIT  ![PasteIt logo](https://raw.githubusercontent.com/rmrz-daniel/PasteIT/main/src-tauri/icons/Square284x284Logo.png)
 PasteIT is a clipboard manager that simplifies copy-paste tasks and boosts your productivity. This intuitive tool allows you to easily store and access text with visual organization features. Say goodbye to repetitive tasks and hello to more time for creativity and work!
 
 ## About
